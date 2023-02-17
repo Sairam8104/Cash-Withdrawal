@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.item-container {
+  margin: 20px;
+}
+
+.button {
+  cursor: pointer;
+  outline: none;
+  background-color: #585076;
+  color: #d4d2db;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
